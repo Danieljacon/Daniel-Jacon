@@ -1,8 +1,4 @@
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/daniel-jacon/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-</p>  
+[![card](https://github-readme-stats.vercel.app/api?username=Danieljacon&theme=default&show_icons=true)](https://github.com/Danieljacon/)
 
 ## 🚀 Onde me encontrar:
 
