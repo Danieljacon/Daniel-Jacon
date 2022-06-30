@@ -3,7 +3,7 @@
 ###
 
 
-## 🚀 Onde me encontrar:
+## Onde me encontrar:
 
 [![Linkedin: Daniel Jacon](https://img.shields.io/badge/-Daniel_Jacon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-jacon/)](https://www.linkedin.com/in/daniel-jacon/)
 [![Gmail Badge](https://img.shields.io/badge/-danielcamillo2020@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielcamillo2020@gmail.com)](mailto:danielcamillo2020@gmail.com)
