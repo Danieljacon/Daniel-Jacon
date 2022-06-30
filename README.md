@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Languages ​​used</h2>
+<h2 align="left">Liguagens e Frameworks que uso</h2>
 
 ###
 
